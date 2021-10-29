@@ -1,0 +1,22 @@
+{
+  "name": "pm2-tutorial",
+  "version": "1.0.0",
+  "description": "basic echo api for pm2 learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriWitney/pm2-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriWitney/pm2-tutorial/issues"
+  },
+  "homepage": "https://github.com/YuriWitney/pm2-tutorial#readme",
+  "dependencies": {
+    "restify": "^8.6.0"
+  }
+}
